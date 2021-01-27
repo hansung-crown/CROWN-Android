@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "813047504436",
+    "firebase_url": "https://crown-f1694.firebaseio.com",
+    "project_id": "crown-f1694",
+    "storage_bucket": "crown-f1694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813047504436:android:2b2069229b5d75a9c93461",
+        "android_client_info": {
+          "package_name": "com.example.crown_doorlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813047504436-vblvfeei9mvt5rfs0gn0jfu0nb5hqt98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZUakUx401i2pJBz7v_Ok3Lq66iOdPr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813047504436-vblvfeei9mvt5rfs0gn0jfu0nb5hqt98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

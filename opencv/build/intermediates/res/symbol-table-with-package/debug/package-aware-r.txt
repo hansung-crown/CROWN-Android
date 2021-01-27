@@ -1,0 +1,11 @@
+org.opencv
+attr camera_id
+attr show_fps
+id any
+id back
+id front
+string app_name
+string default_notification_channel_id
+string default_notification_channel_name
+string msg_token_fmt
+styleable CameraBridgeViewBase camera_id show_fps

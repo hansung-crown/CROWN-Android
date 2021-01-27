@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CROWN</string>
+    <string name="title_activity_login">CROWN</string>
+    <string name="title_activity_start">CROWN</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_alarm">알림</string>
+    <string name="menu_report">신고</string>
+    <string name="menu_gesture">제스처</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
